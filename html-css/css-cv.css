@@ -1,0 +1,32 @@
+ul{
+	text-shadow: -2px 4px 0px rgba(12,142,248,0.92);
+background: #1c5fb9;
+background: linear-gradient(181deg,#1c5fb9 0%, #00ff00 80%);
+background: -webkit-linear-gradient(181deg,#1c5fb9 0%, #00ff00 80%);
+background: -moz-linear-gradient(181deg,#1c5fb9 0%, #00ff00 80%);
+}
+img{
+	width: 500px;
+	height: 500px;
+	border: 15px groove #b51a07;
+}
+p{
+	font-family: calibri;
+	text-shadow: 1px 5px 0px rgba(0,0,0,0.51);
+	color:  indianred;	/*color de las tipografias*/
+	font-size: 28px;
+}
+h4{
+	color: #AF7A6D;
+	font-family: arial;
+	font-size: 32px;
+	
+}
+h1{
+	color: limegreen;
+	background-color: cyan; /*fondo*/
+	text-align: center; /*alineacion*/
+	text-transform: uppercase; /*mayuscula*/
+
+}
+
